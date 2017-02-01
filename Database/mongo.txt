@@ -1,0 +1,120 @@
+{
+    "_id" : ObjectId("574eb40e9563d5479757205b"),
+    "id" : 1,
+    "usr" : "pi",
+    "pw" : "12345",
+    "nw" : -1,
+    "level" : 25,
+    "currentPet" : "3",
+    "login_streak" : 1,
+    "playerStatus" : "playing",
+    "status" : "playing",
+    "net" : "M",
+    "snum" : "12345",
+    "lkey" : "12345",
+    "gamecount" : 100,
+    "gold" : 15000,
+    "treats" : 100,
+    "hp" : 500000,
+    "wins" : 10,
+    "sesscount" : 10,
+    "losses" : 5,
+    "speed" : 5,
+    "attack" : 100,
+    "defence" : 5,
+    "jump" : 5,
+    "xp" : 15000,
+    "userAccessories" : [
+        "head_ninjaA_white",
+        "top_ninjaA_midnight",
+        "back_cherubwings_grey",
+        "head_swat"
+    ],
+    "durability" : {
+        "head_ninjaA_white" : 30
+    },
+    "ownedPets" : {
+        "3" : {
+            "kills" : 0,
+            "color1" : 6269546,
+            "type" : "monkey",
+            "color2" : 16777215,
+            "deaths" : 0,
+            "accessories" : [
+                "back_cherubwings_grey",
+                "top_ninjaA_midnight",
+                "head_swat"
+            ],
+            "name" : "James Dean",
+            "pers" : "clever",
+            "id" : 3,
+            "gender" : "M"
+        },
+        "2" : {
+            "name" : "Bob Dylan",
+            "pers" : "brave",
+            "id" : 2,
+            "gender" : "M",
+            "color1" : "0x000000",
+            "kills" : 0,
+            "deaths" : 0,
+            "accessories" : [
+                "head_ninjaA_white"
+            ],
+            "color2" : "0xffffff",
+            "type" : "dog"
+        },
+        "1" : {
+            "gender" : "M",
+            "id" : 1,
+            "pers" : "brave",
+            "name" : "Frank Sinatra",
+            "accessories" : [
+                "head_ninjaA_white"
+            ],
+            "color2" : "0xffffff",
+            "type" : "rabbit",
+            "deaths" : 0,
+            "kills" : 0,
+            "color1" : "0x79CBE6"
+        }
+    },
+    "userWeaponsOwned" : {
+        "flamethrower" : 999,
+        "lasercannon" : 999,
+        "shuriken" : 999,
+        "grenade" : 999,
+        "grenadeEL1" : 999,
+        "lightningstorm" : 999,
+        "spider" : 999,
+        "goo" : 999,
+        "grappling" : 999,
+        "drill" : 35,
+        "teleport" : 999,
+        "mirvSC1" : 999,
+        "heartdynamite" : 999
+    },
+    "userWeaponsEquipped" : [
+        "walk",
+        "bone",
+        "superjump",
+        "climb",
+        "punch",
+        "dig",
+        "mortar",
+        "goo",
+        "grappling",
+        "teleport",
+        "flamethrower",
+        "heartdynamite",
+        "lightningstorm",
+        "drill"
+    ],
+    "allowedMaps" : [
+        "Crash Landing"
+    ],
+    "command" : "player",
+    "online" : 1,
+    "time" : 1000,
+    "dname" : "pi"
+}
